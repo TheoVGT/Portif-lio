@@ -1,0 +1,117 @@
+Théo Vinicius Garcia Tonche
+2DS
+🔹 2024
+
+08/04 – Criatividade e Inovação: Um desafio constante
+
+Empresa: Itix
+
+Palestrante: Eduardo Von
+
+Resumo: Foi mostrado como teremos que enfrentar problemas que exigem criatividade e inovação. Mesmo quando parece impossível, sempre há uma solução.
+
+23/05 – As possibilidades da IA no mercado de trabalho
+
+Empresa: Tegra
+
+Palestrante: Guilherme Bastos
+
+Resumo: Explicou a importância da IA para otimizar processos e aumentar a produtividade. Houve uma atividade prática de criação de currículo com IA.
+
+27/05 – Trabalho Remoto
+
+Empresa: Eduzz
+
+Palestrante: (Online – via Teams)
+
+Resumo: Apresentaram conceitos de Homelab e boas práticas para o trabalho remoto em casa.
+
+31/07 – Hacker do bem e a segurança digital no dia a dia
+
+Palestrante: Luiz Milagres
+
+Resumo: Foi explicado como proteger dados pessoais e reconhecer sites perigosos, evitando que hackers usem nossas informações de forma maliciosa.
+
+27/08 – Você é uma pessoa organizada?
+
+Empresa: Eduzz
+
+Palestrantes: Vinícius e Michele
+
+Resumo: Mostraram a importância da organização para manter uma rotina, cumprir tarefas e se destacar tanto no trabalho quanto na vida pessoal.
+
+13/09 – Soft Skills e Hard Skills
+
+Palestrante: Liliane Pereira
+
+Resumo: Explicou sobre as habilidades necessárias no mercado: Soft Skills (relacionamento interpessoal) e Hard Skills (habilidades técnicas).
+
+19/09 – Ingressando no mercado de trabalho: Autoconhecimento e Marca Pessoal
+
+Empresa: UNO Soluções
+
+Palestrante: Liliane Pereira
+
+Resumo: Mostrou a importância do autoconhecimento e do marketing pessoal para conquistar oportunidades no mercado de trabalho.
+
+🔹 2025 – 2º DS
+
+10/04 – Desafios do primeiro emprego em TI e como superá-los
+
+Empresa: Eduzz
+
+Palestrante: Tiago Baldo
+
+Resumo: Foram apresentados os principais desafios do primeiro emprego em TI e estratégias para aumentar as chances de conseguir uma vaga.
+
+16/04 – Carreira e Suporte na Prática
+
+Empresa: Itix
+
+Palestrantes: Matheus Dias, Tamires, Matheus Jorge e Raissa
+
+Resumo: Compartilharam experiências práticas da carreira, destacando as diferenças entre teoria e prática no mercado de TI.
+
+23/04 – LinkedIn e Marca Pessoal para Profissionais de TI
+
+Empresa: Eduzz
+
+Palestrante: Representante da Eduzz
+
+Resumo: Foi mostrado como montar um perfil profissional no LinkedIn e como as empresas avaliam candidatos pela plataforma.
+
+12/05 – Inteligência Artificial
+
+Palestrante: Prof. Dilenardo Piva Júnior
+
+Resumo: Explicou sobre o desenvolvimento da IA e como utilizá-la de maneira correta para aproveitar seu máximo potencial.
+
+20/08 – Produtividade e Organização no Dia a Dia
+
+Empresa: Eduzz
+
+Palestrante: Representante Eduzz
+
+Resumo: Aprendemos a organizar tarefas por prioridade e tempo, evitando procrastinação e aumentando a eficiência.
+
+27/08 – Treinamento de Banco de Dados
+
+Empresa: Itix
+
+Palestrantes: Andrea Maria Fieri, Raissa Brito Miranda e Rafael Santos
+
+Resumo: Ensinaram conceitos práticos de banco de dados (queries, views, tabelas etc.) e propuseram um desafio prático via Teams.
+
+03/09 – Segurança de Informação e Cibersegurança
+
+Palestrante: Guilherme Rodrigues Mattos
+
+Resumo: Abordou os principais riscos digitais e como escrever códigos mais seguros, além de boas práticas para proteção online.
+
+16/09 – Inteligência Artificial na Prática: Aplicações no Mercado
+
+Empresa: Eduzz
+
+Palestrante: Lucas Lascasas
+
+Resumo: Mostrou aplicações práticas da IA no ambiente de trabalho e como usá-la para otimizar tarefas e se destacar profissionalmente.
